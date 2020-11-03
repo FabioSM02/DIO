@@ -2,4 +2,4 @@
 
 - _the project has as objective the study of flex box_
 
-<img src="" alt="Project"/>
+<img src="https://github.com/FabioSM02/DIO-Projects/blob/main/Instagram%20Clone/public/img/Screen.PNG" alt="Project"/>
