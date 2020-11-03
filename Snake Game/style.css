@@ -1,0 +1,20 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: var(--color-text);
+    font-family: Arial;
+}
+
+:root {
+    --color-text: rgb(44, 139, 44);
+    font-size: 62.5%;
+}
+
+#snake {
+    width: 51.2rem;
+    height: 51.2rem;
+}
