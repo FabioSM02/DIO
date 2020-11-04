@@ -4,4 +4,8 @@
 
 ### How I visualize in web?
 
-- 
+- Install de project using git bash or zip folder, if you do in git bash type it:
+
+`git clone https://github.com/FabioSM02/DIO-Projects/Snake Game`
+
+- After copying, open the project clicking on file index.html
