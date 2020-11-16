@@ -4,6 +4,8 @@
 
 - Make a spaceship game, where you must prevent your character from being killed by enemies.
 
+<img src="https://github.com/FabioSM02/DIO-Projects/blob/main/GameShip/img/Screen.PNG" alt="GameShip">
+
 ### Technologies used
 
 - HTML
