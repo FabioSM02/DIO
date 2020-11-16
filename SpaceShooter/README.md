@@ -4,7 +4,7 @@
 
 - The goal of this project is make the game Space Shooter.
 
-<img src="https://github.com/FabioSM02/DIO-Projects/tree/main/SpaceShooter/img/Screen.png" alt="Space Shooter">
+<img src="https://github.com/FabioSM02/DIO-Projects/blob/main/SpaceShooter/img/Screen.PNG" alt="Space Shooter">
 
 ### Technologies used
 
